@@ -1,0 +1,10 @@
+data/
+models/
+results/
+*.tif
+*.npy
+*.csv
+*.h5
+*.tflite
+__pycache__/
+.ipynb_checkpoints/

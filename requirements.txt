@@ -1,0 +1,11 @@
+tensorflow==2.15.0
+rasterio
+opencv-python
+albumentations
+matplotlib
+numpy
+scikit-learn
+tflite-support
+tensorflow-model-optimization
+pandas
+tqdm
