@@ -1,5 +1,4 @@
-# ClouDSen Project – Onboard Cloud Detection for Sentinel-2 Imagery
-
+# Onboard AI for Cloud and Surface Anomaly Detection in Earth Observation Images
 ## 🌍 Overview
 This project develops a lightweight deep learning model for **cloud detection in Sentinel-2 satellite images**, optimized for **edge deployment** (Jetson Nano / Raspberry Pi).  
 The model uses a **MobileNetV3-U-Net** architecture trained on the **CloudSEN12+ dataset**.
